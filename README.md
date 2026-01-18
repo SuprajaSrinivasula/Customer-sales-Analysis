@@ -1,4 +1,4 @@
-# Customer Sales Analysis (Week 5 – Pandas Advanced)
+# Customer Sales Analysis
 
 ## Project Overview
 This project focuses on analyzing customer purchasing behavior and sales patterns using advanced data manipulation techniques in Python with Pandas. The objective is to derive actionable business insights through aggregation, filtering, pivot tables, and visualizations.
